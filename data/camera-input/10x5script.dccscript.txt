@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dccscript> 
+  <commands>
+     <loop loopcount="10">
+         <capture/>
+         <wait time="5"/>
+     </loop>
+  </commands>
+</dccscript>

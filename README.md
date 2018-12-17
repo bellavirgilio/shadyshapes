@@ -1,2 +1,3 @@
 ## Shady Shapes
-by Bella Virgilio, Julia Burmeister and Parul Koul
+an accessible + intuitive shadow animation interface
+created by Parul Koul, Bella Virgilio & Julia Burmeister
